@@ -1,2 +1,2 @@
-# Cardioid
-Code for cardioid
+# Cardioid(GUI)
+Code for cardioid as application
